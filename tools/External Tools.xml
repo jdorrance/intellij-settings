@@ -6,7 +6,7 @@
       <option name="WORKING_DIRECTORY" value="C:/apps/scripts" />
     </exec>
   </tool>
-  <tool name="scclocalsave" description="saves to scclocal cq5 local" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+  <tool name="scclocalsave" description="saves to scclocal cq5 local" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="C:\Users\jdorrance\AppData\Local\Programs\Python\Python35\python.exe" />
       <option name="PARAMETERS" value="save_to_cq5_scclocal.py &quot;$FileDir$\$FileName$&quot; " />
