@@ -1,7 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\Users\johnd\Documents\aem-6\ui\src\main\content\jcr_root\apps\acs'" />
-    <option name="defaultScopeName" value="Directory 'C:\Users\johnd\Documents\aem-6\ui\src\main\content\jcr_root\apps\acs'" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\johnd\Documents\aem-6\ui\src\main\content\jcr_root\apps\acs'" />
-  </component>
-</application>
