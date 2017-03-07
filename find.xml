@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'tmo-services'" />
-    <option name="defaultScopeName" value="Module 'tmo-services'" />
-    <option name="SEARCH_SCOPE" value="Module 'tmo-services'" />
+    <option name="customScope" value="File '[sktools-core] - ...\sktools\src\main\groovy\com\scc\sktools\ui\CommerceTransformServlet.groovy'" />
+    <option name="defaultScopeName" value="File '[sktools-core] - ...\sktools\src\main\groovy\com\scc\sktools\ui\CommerceTransformServlet.groovy'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[sktools-core] - ...\sktools\src\main\groovy\com\scc\sktools\ui\CommerceTransformServlet.groovy'" />
   </component>
 </application>
