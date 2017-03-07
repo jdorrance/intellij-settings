@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="C:/apps/scripts" />
     </exec>
   </tool>
+  <tool name="author_replicate_all" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="sh" />
+      <option name="PARAMETERS" value="'docker-compose exec author download_replicate_all.sh'" />
+      <option name="WORKING_DIRECTORY" value="C:/apps/projects/scc-magento2-docker" />
+    </exec>
+  </tool>
 </toolSet>
