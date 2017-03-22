@@ -4,6 +4,7 @@
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="grabfrontend" type="PLAIN_TEXT" />
       <mapping pattern="expand-cq-paths" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
