@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="docker-environment" type="Bash" />
+      <mapping pattern="repopulate-env-file" type="Bash" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="grabfrontend" type="PLAIN_TEXT" />
       <mapping pattern="expand-cq-paths" type="PLAIN_TEXT" />

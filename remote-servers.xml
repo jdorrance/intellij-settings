@@ -1,8 +1,10 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="Aurora" type="docker">
       <configuration>
-        <option name="certificatesPath" value="C:\Users\jdorrance\.docker\machine\machines\default" />
+        <option name="apiUrl" value="https://52.90.26.4:2376" />
+        <option name="certificatesPath" value="C:\Users\jdorrance\.docker\machine\machines\aurora" />
+        <option name="machine" value="aurora" />
         <option name="pathMappings">
           <list />
         </option>
