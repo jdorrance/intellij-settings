@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="cq5save" description="saves to 4502 cq5 local" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="cq5save" description="saves to 4502 cq5 local" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="C:\Python36\python.exe" />
       <option name="PARAMETERS" value="save_to_cq5.py &quot;$FileDir$\$FileName$&quot;" />
