@@ -1,15 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="repopulate-env-file" type="Bash" />
-      <mapping pattern="docker-environment" type="Bash" />
-      <mapping pattern=".eslintrc-ecmascript-6" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="grabfrontend" type="PLAIN_TEXT" />
       <mapping pattern="expand-cq-paths" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintrc-ecmascript-6" type="PLAIN_TEXT" />
+      <mapping pattern="grabfrontend" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="vhost" type="SmartyConfig" />
+      <mapping pattern="docker-environment" type="Bash" />
+      <mapping pattern="repopulate-env-file" type="Bash" />
     </extensionMap>
   </component>
 </application>
